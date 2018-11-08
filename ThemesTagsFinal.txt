@@ -1,0 +1,142 @@
+corporate model	Context	
+Physician attitudes	Context	
+physician views of suicide	Context	
+stigma	Context	
+mental health stigma	Context	
+Work environment	Context	
+physician workload	Context	
+corporate model	Culture of practice	
+disruptive behavior	Culture of practice	
+Physician attitudes	Culture of practice	
+physician views of suicide	Culture of practice	
+stigma	Culture of practice	
+mental health stigma	Culture of practice	
+Work environment	Culture of practice	
+physician workload	Culture of practice	
+job conflict	Culture of practice	
+role strain theory	Culture of practice	
+population density of physicians	Culture of practice	
+discussion guide	Education	
+medical education	Education	
+graduate medical education	Education	
+recommendations for prevention	Education	
+suicide prevention	Education	
+suicide curriculum	Education	
+wellness curriculum	Education	
+physician causes of death	Epidemiology	
+physician mortality	Epidemiology	
+physician death	Epidemiology	
+location of suicide	Epidemiology	
+Lethality	Epidemiology	
+Suicide Method	Epidemiology	
+physician suicide type and region in US	Epidemiology	
+bias	Epidemiology	
+Epidemiology	Epidemiology	
+suicide rates	Epidemiology	
+Spouse	Family	
+Female Physicians	Gender	
+LGBTQ	Gender	
+Male Physicians	Gender	
+bias	Gender	
+physician litigation	Legal	
+complaints on doctors	Legal	
+disciplinary action on physicians with mental health disorders	Legal	
+defensive medicine	Legal	
+sexual assault	Legal	
+psychiatric hospitalization of physicans	Mental Health	
+anxiety	Mental Health	
+depression	Mental Health	
+depressive symptoms	Mental Health	
+Mental health diagnoses	Mental Health	
+physician mental health	Mental Health	
+physician burnout	Mental Health	
+personality traits for suicidality	Mental Health	
+Burnout_stress	Mental Health	
+PTSD	Mental Health	
+sleep disorders	Mental Health	
+Medical Board Monitoring	Policy	
+medical license	Policy	
+probation	Policy	
+economics of physician suicide	Policy	
+physician health program	Policy	
+Physician Pilot	Population	
+Female Physicians	Population	
+LGBTQ	Population	
+Male Physicians	Population	
+Comparison with Professions	Population	
+ethnicity	Population	
+gender in physician suicide	Population	
+immigrant physicians	Population	
+PTSD	Population	
+war and physician suicide	Population	
+grieving of healthcare team	Postvention	
+Suicide Aftermath_Medical School	Postvention	
+contagion	Postvention	
+Intervention_or_Training	Prevention	
+recommendations for prevention	Prevention	
+suicide prevention	Prevention	
+suicide curriculum	Prevention	
+wellness curriculum	Prevention	
+contagion	Public Health	
+suicide cluster	Public Health	
+discussion guide	Response	
+grieving of healthcare team	Response	
+Medical Board Monitoring	Response	
+medical license	Response	
+probation	Response	
+Suicide Aftermath_Medical School	Response	
+burnout prevention	Response	
+economics of physician suicide	Response	
+physician health program	Response	
+Spouse	Risk	
+physician litigation	Risk	
+complaints on doctors	Risk	
+disciplinary action on physicians with mental health disorders	Risk	
+job conflict	Risk	
+role strain theory	Risk	
+anxiety	Risk	
+depression	Risk	
+depressive symptoms	Risk	
+Mental health diagnoses	Risk	
+physician mental health	Risk	
+physician burnout	Risk	
+Alcohol or Substance Abuse	Risk	
+Substance misuse	Risk	
+substance use disorder	Risk	
+Harrassment	Risk	
+sexual harassment	Risk	
+medical comorbidity	Risk	
+medical illness	Risk	
+personality traits for suicidality	Risk	
+self-prescription	Risk	
+Acquired Capability	Risk	
+Interpersonal Psychology Theroy	Risk	
+psychology of suicide	Risk	
+Theory of suicidal behavior	Risk	
+Burnout_stress	Risk	
+contagion	Risk	
+defensive medicine	Risk	
+Family History	Risk	
+parental neglect	Risk	
+physician impairment	Risk	
+physician income	Risk	
+population density of physicians	Risk	
+susceptible personality theory	Risk	
+location of suicide	Setting	
+Alcohol or Substance Abuse	Substance use	
+Substance misuse	Substance use	
+substance use disorder	Substance use	
+Acquired Capability	Theory	
+Interpersonal Psychology Theroy	Theory	
+psychology of suicide	Theory	
+Theory of suicidal behavior	Theory	
+susceptible personality theory	Theory	
+psychiatric hospitalization of physicans	Treatment	
+physician health program	Treatment	
+treatment	Treatment	
+wellness curriculum	Wellness	
+physician burnout	Wellness	
+Burnout_stress	Wellness	
+Physician Well-being	Wellness	
+quality of life	Wellness	
+wellness	Wellness	

@@ -1,0 +1,348 @@
+1	Physician suicide-why?	Epidemiology; Lethality; Mental health diagnoses; Opinion/Editorial; divorce rate
+2	Suicide rates from 1960 to 1989 in Norwegian physicians compared with other educational groups	Epidemiology; Lethality; divorce rate
+3	Mortality among Norwegian doctors 1960-2000	Epidemiology; divorce rate
+4	"Doctors' mental health, burnout, and suicidality: Professional and ethical issues in the workplace"	Mental health diagnoses; Opinion/Editorial; Scopus; discussion guide; divorce rate; physician mental health; self-prescription; stigma
+5	"Suicide and occupation: the impact of socio-economic, demographic and psychiatric differences"	Comparison with Professions; Epidemiology; Lethality; Mental health diagnoses; divorce rate
+6	Forensic analysis of suicidal ideation among medical students of Egypt: A crosssectional study	Epidemiology; Medical students; Suicidal ideation; divorce rate
+7	Suicidal ideation among students enrolled in healthcare training programs: A cross-sectional study	Comparison with Professions; Epidemiology; Medical students; Suicidal ideation; depressive symptoms; divorce rate; gender in physician suicide
+8	Nonsuicidal self-injury and its relation to personality traits in medical students	divorce rate
+9	Suicidal behavior and attitudes among medical students in the United Arab Emirates	Medical students; Physician attitudes; Suicidal ideation; divorce rate
+10	A piece of my mind. Risky business	Opinion/Editorial; divorce rate; stigma
+11	Suicides of physicians and the reasons	Opinion/Editorial; Scopus; role strain theory
+12	Results and implications of the AMA-APA Physician Mortality Project. Stage II. Council on Scientific Affairs.[Erratum appears in JAMA 1987 Aug 7;258(5):614]	Alcohol or Substance Abuse; Epidemiology; Lethality; Mental health diagnoses; divorce rate
+13	My dear colleague: are you considering suicide?	Epidemiology; Mental health diagnoses; Opinion/Editorial; divorce rate
+14	Affective disorder and suicide in women physicians: other views	Burnout_stress; Epidemiology; Opinion/Editorial; divorce rate
+15	Mentally disturbed doctors	Mental health diagnoses; Opinion/Editorial; Substance misuse; disciplinary action on physicians with mental health disorders; divorce rate
+16	Mental disturbance in doctors	Mental health diagnoses; Opinion/Editorial; Substance misuse; divorce rate
+17	Suicide by Physicians	Opinion/Editorial; Scopus; divorce rate; economics of physician suicide
+18	Suicide patterns among physicians related to other academics as well as to the general population. Results from a national long-term prospective study and a retrospective study	Comparison with Professions; Epidemiology; Female Physicians; Specialties; divorce rate
+19	Physician suicide	Suicidal ideation; Suicide Method; case report; depression; divorce rate
+20	"Prevalence, perceptions, and consequences of substance use in medical students"	Alcohol or Substance Abuse; Medical students; Scopus; divorce rate
+21	Combating stress and burnout in surgical practice: a review	Burnout_stress; Epidemiology; Suicidal ideation; depression; divorce rate; surgeon
+22	Suicide by injecting lispro insulin with an intravenous cannula	Case_description_or_report; Lethality; Mental health diagnoses; divorce rate
+23	The suicide rate among psychiatrists revisited	Lethality; Psychiatrists; Work environment; divorce rate; narrative review
+24	The Things We Have Lost	Case_description_or_report; Intervention_or_Training; Opinion/Editorial; Physician attitudes; Work environment; divorce rate
+25	A high-risk suicide group: The anesthesiologist involved in litigation	Etiology of physician suicide; Opinion/Editorial; anasthesia; divorce rate; high risk physician; physician litigation
+26	Reaching out to the depressed physician	Intervention_or_Training; Mental health diagnoses; Opinion/Editorial; Physician attitudes; depression; divorce rate
+27	Suicide by physicians	Epidemiology; Opinion/Editorial; divorce rate
+28	When physicians commit suicide	Burnout_stress; Mental health diagnoses; Opinion/Editorial; Work environment; divorce rate; physician mental health
+29	The fate of Hungarian Jewish dermatologists during the Holocaust: Part 2: Under Nazi rule	Case_description_or_report; divorce rate; war and physician suicide
+30	"Implementing Change to Reduce Depression, Suicide, and Burnout Among Physicians-in-Training"	Medical students; Opinion/Editorial; divorce rate; suicide prevention; wellness curriculum
+31	"The impact of complaints procedures on the welfare, health and clinical practise of 7926 doctors in the UK: a cross-sectional survey"	Alcohol or Substance Abuse; Suicidal ideation; anxiety; complaints on doctors; defensive medicine; depression; divorce rate; survey
+32	Suicide and occupation: a review of the literature	Epidemiology; Lethality; Work environment; divorce rate; gender in physician suicide; physician mental health; review
+33	A case of suicide disguised as natural death	Switzerland; case report; divorce rate
+34	Reconsidering suicide prevention strategies in physicians	Intervention_or_Training; Lethality; Mental health diagnoses; Opinion/Editorial; Suicidal ideation; divorce rate
+35	Differences in Physicians' and Nurses' Recent Suicide Attempts: An Exploratory Study	Lethality; Mental health diagnoses; Substance misuse; Work environment; divorce rate
+36	Suicide and drug abuse in the medical community	Case_description_or_report; Opinion/Editorial; Physician attitudes; Substance misuse; Work environment; divorce rate
+37	Teaching residents and program directors about physician impairment	Medical residents; divorce rate; risk factors for suicide; suicide prevention; wellness
+38	Stress and distress in middle age - The mental health of doctors	Burnout_stress; Psychiatrists; depression; divorce rate; physician mental health; risk factors for suicide
+39	"Suicide, affective disorder, and women physicians"	Epidemiology; Female Physicians; Lethality; Mental health diagnoses; divorce rate
+40	Mortality of doctors in different specialties: findings from a cohort of 20000 NHS hospital consultants	Epidemiology; Lethality; divorce rate
+41	Physician suicide--a problem for our time	Opinion/Editorial; divorce rate
+42	Suicide whilst under GMC's fitness to practise investigation: Were those deaths preventable?	Opinion/Editorial; divorce rate
+43	Some human factors in the flying physicians	Case_description_or_report; Physician Pilot; divorce rate; high risk physician; physician mental health
+44	Confronting depression and suicide in physicians: a consensus statement	divorce rate
+45	A national survey of medical student suicides	Epidemiology; Medical students; divorce rate; suicide prevention
+46	Suicides among junior doctors in the NHS	Case_description_or_report; Medical residents; Opinion/Editorial; Work environment; divorce rate; suicide cluster
+47	The family physician's family	Comparison with Professions; Family Medicine; Female Physicians; Spouse; divorce rate; high risk physician; review; risk factors for suicide; suicide prevention; wellness
+48	Assessment of depression and suicidal behaviour among medical students in Portugal	Epidemiology; Medical students; Portugal; Suicidal ideation; anxiety; depression; divorce rate
+49	Suicide and self-assault: an introductory course for medical students	Intervention_or_Training; divorce rate; medical education; suicide curriculum
+50	Suicide in physicians	Opinion/Editorial; divorce rate; wellness curriculum
+51	Suicide-Prone Physicians	Opinion/Editorial; Psychiatrists; Scopus; divorce rate
+52	"Physician suicide too often ""brushed under the rug"""	Mental health diagnoses; Scopus; divorce rate; news_coverage; risk factors for suicide; stigma
+53	"Suicide by self-administration of a drug mixture (propofol, midazolam, and zolpidem) in an anesthesiologist: the first case report in Italy"	Etiology of physician suicide; anasthesiology suicide; case report; divorce rate
+54	"Stress and depressive symptoms/dysphoria among US medical students: results from a large, nationally representative survey"	Medical students; Mental health diagnoses; Suicidal ideation; divorce rate; suicide prevention; wellness
+55	Stress in UK intensive care unit doctors	Epidemiology; Suicidal ideation; Work environment; divorce rate; intensivist; physician burnout
+56	Application of an interpersonal-psychological model of suicidal behavior to physicians and medical trainees	Burnout_stress; Etiology of physician suicide; Medical students; Mental health diagnoses; divorce rate; personality traits for suicidality; review; suicidal behavior
+57	Suicide by physicians	Epidemiology; divorce rate; gender in physician suicide
+58	Mental disturbance in doctors	Opinion/Editorial; Work environment; anasthesia; divorce rate
+59	Suicide by Physicians on Probation-Reply	Etiology of physician suicide; Medical Board Monitoring; Opinion/Editorial; Scopus; contagion; divorce rate; medical license; probation; suicide cluster
+60	An epidemic of suicide among physicians on probation	disciplinary action on physicians with mental health disorders; divorce rate
+61	"Depression, suicidality and alcohol abuse among medical and business students"	Medical students; Mental health diagnoses; Suicidal ideation; depression; divorce rate; wellness curriculum
+62	The wounded healer: can this idea be of use to family physicians?	Mental health diagnoses; Opinion/Editorial; canada; divorce rate; psychology of suicide
+63	The incidence of suicides among physicians and dentists: an unexplained story	Etiology of physician suicide; Opinion/Editorial; divorce rate
+64	The mental health crisis in ophthalmology	Epidemiology; Opthalmologists; divorce rate
+65	Suicide by physicians	Epidemiology; Male Physicians; divorce rate; gender in physician suicide
+66	Is suicide a special occupational hazard for physicians?	Comparison with Professions; Opinion/Editorial; Suicide Method; divorce rate; gender in physician suicide
+67	Physician Suicide	Etiology of physician suicide; Opinion/Editorial; Scopus; anesthesiology; divorce rate
+68	Dolores	Case_description_or_report; Medical residents; Opinion/Editorial; case report; divorce rate; risk factors for suicide
+69	Editorial: Suicide among psychiatrists	ILL; Opinion/Editorial; Psychiatrists; divorce rate; personality traits for suicidality; physician mental health
+70	Physician suicide. Can something be done?	Epidemiology; Opinion/Editorial; canada; divorce rate; gender in physician suicide; recommendations for prevention; stigma
+71	Suicide and role strain among physicians	Epidemiology; Etiology of physician suicide; Lethality; Specialties; divorce rate
+72	Doctors in distress	Burnout_stress; Epidemiology; Intervention_or_Training; Medical students; Suicidal ideation; Work environment; divorce rate; review
+73	A mother's story	Case_description_or_report; LGBTQ; Opinion/Editorial; depression; divorce rate; gender in physician suicide
+74	Stresses on women doctors may cause higher suicide risk	Etiology of physician suicide; Female Physicians; Opinion/Editorial; Scopus; UK; divorce rate; gender in physician suicide
+75	Attitudes toward suicide in Japanese and American medical students	Medical students; divorce rate; japan
+76	Listening to depression and suicide risk in medical students: the Healer Education Assessment and Referral (HEAR) Program	Intervention_or_Training; Medical students; Mental health diagnoses; depression; divorce rate
+77	Suicides by physicians in training	Medical residents; Opinion/Editorial; divorce rate
+78	The emotional health of physicians	Alcohol or Substance Abuse; Medical residents; Medical students; Mental health diagnoses; Opinion/Editorial; divorce rate; physician mental health; risk factors for suicide; suicide prevention
+79	Incidence of Suicides Among Physicians	Opinion/Editorial; Scopus; divorce rate
+80	"Distressed doctors: a hospital-based support program for poorly performing and ""at-risk"" junior medical staff"	Etiology of physician suicide; Intervention_or_Training; Medical residents; Work environment; australia; divorce rate; high risk physician; suicide prevention
+81	Utility of a brief screening tool to identify physicians in distress	Burnout_stress; Suicidal ideation; divorce rate; quality of life
+82	Medical students and depression	Medical students; Mental health diagnoses; Opinion/Editorial; Suicidal ideation; divorce rate
+83	Burnout and suicidal ideation among U.S. medical students	Burnout_stress; Epidemiology; Medical students; Suicidal ideation; divorce rate
+84	Efficacy of a brief screening tool to identify medical students in distress	Medical students; Scopus; Suicidal ideation; divorce rate; suicide prevention; survey
+85	"Burnout among u.s. medical students, residents, and early career physicians relative to the general u.s. population"	Burnout_stress; Epidemiology; Medical residents; Medical students; Scopus; Suicidal ideation; divorce rate; survey
+86	Patterns of distress in US medical students	Burnout_stress; Epidemiology; Medical students; Mental health diagnoses; Suicidal ideation; depression; divorce rate
+87	"Factors associated with resilience to and recovery from burnout: A prospective, multi-institutional study of US medical students"	Burnout_stress; Medical students; Suicidal ideation; divorce rate
+88	"Coping strategies, depression, and anxiety among Ontario family medicine residents"	Alcohol or Substance Abuse; Etiology of physician suicide; Family Medicine; Medical residents; Mental health diagnoses; Substance misuse; depression; divorce rate
+89	Physician Depression and Suicide: A Shared Responsibility	Burnout_stress; Lethality; Medical residents; Medical students; Mental health diagnoses; Substance misuse; Suicidal ideation; depression; divorce rate; high risk physician; medical education; narrative review; recommendations for prevention; stigma; suicide prevention
+90	Medical suicide -- groin stabbing	Case_description_or_report; Lethality; depression; divorce rate; medical illness
+91	Physician suicide	Medical residents; Opinion/Editorial; depression; divorce rate
+92	The disease of being a doctor	Alcohol or Substance Abuse; Female Physicians; Medical residents; Medical students; Mental health diagnoses; Opinion/Editorial; divorce rate; personality traits for suicidality; physician mental health; risk factors for suicide
+93	A comparison of risk and protective factors related to suicide ideation among residents and specialists in academic medicine	Burnout_stress; Medical residents; Specialties; Suicidal ideation; Work environment; depressive symptoms; divorce rate; risk factors for suicide; suicide prevention
+94	More on suicide and women physicians	divorce rate; gender in physician suicide
+95	Clinical prediction of physician suicide based on medical student data	Epidemiology; Medical students; depressive symptoms; divorce rate; personality traits for suicidality; risk factors for suicide
+96	A cross-cultural investigation of suicidal behavior and attitudes in Austrian and Turkish medical students	Epidemiology; Medical students; Physician attitudes; Suicidal ideation; divorce rate
+97	Doctor's suicide prompts look at hours	Opinion/Editorial; Work environment; divorce rate; surgeon suicide; surgery resident
+98	Mortality among medical students and young physicians	Epidemiology; Medical students; divorce rate; physician causes of death
+99	Feasibility of a Comprehensive Wellness and Suicide Prevention Program: A Decade of Caring for Physicians in Training and Practice	Burnout_stress; Intervention_or_Training; Medical residents; Medical students; Suicidal ideation; depressive symptoms; divorce rate; suicide prevention; wellness curriculum
+100	An overview of stress in medical practice	Burnout_stress; Opinion/Editorial; depressive symptoms; divorce rate; risk factors for suicide; wellness curriculum
+101	Suicidal ideation in medical students: who is at risk?	Medical students; Suicidal ideation; depression; divorce rate; risk factors for suicide; survey
+102	Factors associated with suicidal ideation in Taiwanese medical students	Medical students; Opinion/Editorial; Suicidal ideation; Taiwan
+103	Practise what you preach: health behaviours and stress among non-consultant hospital doctors	Burnout_stress; Epidemiology; Mental health diagnoses; Work environment; depressive symptoms; risk factors for suicide
+104	Suicides in physicians: Two cases of poisoning involving fentanyl and phenobarbital	Case_description_or_report; Scopus; Suicide Method; anasthesia; case report
+105	A suicide by thiopentone infusion	Case_description_or_report; Lethality
+106	An Examination of the Interpersonal Psychological Theory of Suicidal Behavior in Physicians	Alcohol or Substance Abuse; Epidemiology; Lethality; Mental health diagnoses; Suicidal ideation; Theory of suicidal behavior; depression; ethnicity; psychology of suicide; risk factors for suicide; survey
+107	Provocative work experiences predict the acquired capability for suicide in physicians	Acquired Capability; Interpersonal Psychology Theroy; Physician Well-being; Specialties; Suicidality; Work environment; risk factors for suicide
+108	Suicide in physicians and veterinarians: risk factors and theories	Acquired Capability; Burnout_stress; Etiology of physician suicide; Female Physicians; Interpersonal Psychology Theroy; Mental health diagnoses; Opinion/Editorial; Scopus; Theory of suicidal behavior; anxiety; gender in physician suicide; risk factors for suicide; stigma
+109	Re: physician suicide and physician health programs	Alcohol or Substance Abuse; Epidemiology; Mental health diagnoses; Opinion/Editorial; disciplinary action on physicians with mental health disorders; physician health program
+110	Suicide among women physicians	Opinion/Editorial; gender in physician suicide
+111	On the death of house officers	Medical residents; Medical students; Opinion/Editorial
+112	Self-reported depression and suicide attempts among U.S. women physicians	Epidemiology; Family History; Female Physicians; Lethality; Suicide_completion; depression; risk factors for suicide
+113	Occupational hazards to physicians--suicide	Alcohol or Substance Abuse; Mental health diagnoses; Opinion/Editorial; Physician attitudes; depressive symptoms; high risk physician; stigma
+114	Why don't academic physicians seek needed professional help for psychological distress?	Burnout_stress; Harrassment; Italy; Original Study; Suicidal ideation; Work environment; depressive symptoms; sweden
+115	Survey on recent suicidal ideation among female university hospital physicians in Sweden and Italy (the HOUPE study): cross-sectional associations with work stressors	Burnout_stress; Female Physicians; Italy; Suicidal ideation; Work environment; sweden
+116	Work environment and recent suicidal thoughts among male university hospital physicians in Sweden and Italy: the health and organization among university hospital physicians in Europe (HOUPE) study	Burnout_stress; Epidemiology; Italy; Male Physicians; Suicidal ideation; Work environment; sweden
+117	Psychopathology and Suicide among Quebec Physicians: A Nested Case Control Study	Epidemiology; Mental health diagnoses
+118	Can Arts and Communication Programs Improve Physician Wellness and Mitigate Physician Suicide?	Burnout_stress; Case_description_or_report; Intervention_or_Training; Opinion/Editorial; Physician attitudes
+119	Doctors and suicide	Case_description_or_report; Opinion/Editorial; Scopus; UK; complaints on doctors; stigma
+120	Struggling in silence: physician suicide	Burnout_stress; Medical residents; Medical students; Opinion/Editorial; physician health program
+121	Suicidal ideation among Pakistani medical students	Epidemiology; Medical students; Mental health diagnoses; Scopus; Suicidal ideation; anxiety; pakistan; survey
+122	Quality of life of female physicians aged 45-55 years	Female Physicians; Physician Well-being; Scopus; Suicidal ideation; depression; gender in physician suicide
+123	Details on suicide among US physicians: data from the National Violent Death Reporting System	Alcohol or Substance Abuse; Mental health diagnoses; Work environment
+124	"Authors' response to letter to the editor ""Details on suicide among US physicians: data from the National Violent Death Reporting System"""	Medical students; Opinion/Editorial
+125	Physician suicide and drug abuse	Alcohol or Substance Abuse; Opinion/Editorial; Work environment
+126	Depression and suicide among physician trainees: recommendations for a national response	Medical residents; Medical students; Mental health diagnoses; Opinion/Editorial; depression; wellness
+127	Addressing depression and suicide among physician trainees-In reply	Medical residents; Medical students; Mental health diagnoses; graduate medical education; medical education; suicide prevention; wellness curriculum; Burnout_stress; Intervention_or_Training; Medical students; Opinion/Editorial
+128	Habits of nervous tension and suicide	Medical students; gender in physician suicide; personality traits for suicidality
+129	Physician suicide rates Show alarming need for education	Opinion/Editorial; recommendations for prevention; stigma
+130	Physician suicide rates show alarming need for education	Case_description_or_report; Opinion/Editorial; physician health program; stigma; suicidal behavior
+131	The other side of the stethoscope	Burnout_stress; Opinion/Editorial; Work environment; physician impairment
+132	"The physician at risk: disruptive behaviour, burnout, addiction, and suicide"	Opinion/Editorial; disruptive behavior; high risk physician; wellness
+133	Suicide attempt of a physician with 3600 units of insulin and rapid onset acute hepatitis	case report; depressive symptoms
+134	Web-based cognitive behavioral therapy intervention for the prevention of suicidal ideation in medical interns: A randomized clinical trial	Intervention_or_Training; Medical residents; Suicidal ideation
+135	"Workload, mental health and burnout indicators among female physicians"	Burnout_stress; Female Physicians; Suicidal ideation; depressive symptoms; survey
+136	Mental Health of Physicians--Nationwide Representative Study from Hungary	Suicidal ideation; risk factors for suicide; sleep disorders
+137	Experts address risk of physician suicide	Opinion/Editorial; recommendations for prevention
+138	"The Suicide Prevention, Depression Awareness, and Clinical Engagement Program for Faculty and Residents at the University of California, Davis Health System"	Intervention_or_Training; Medical residents; physician health program; risk factors for suicide; suicide prevention
+139	Suicide in doctors while under fitness to practise investigation	Opinion/Editorial; economics of physician suicide
+140	Risk of suicide in medical and related occupational groups: a national study based on Danish case population-based registers	Comparison with Professions; Epidemiology; Female Physicians; Suicide Method; denmark
+141	"Suicide in doctors: a study of risk according to gender, seniority and specialty in medical practitioners in England and Wales, 1979-1995"	Epidemiology; Female Physicians; NHS; Specialties; Suicide_completion; UK; gender in physician suicide
+142	Doctors who kill themselves: a study of the methods used for suicide	Epidemiology; Lethality; Specialties; Suicide Method; anasthesia
+143	Suicide in doctors. A psychological autopsy study	Mental health diagnoses; Substance misuse; Suicide_completion; UK; complaints on doctors; psychological autopsy
+144	Circumstantial and toxicological features of deaths from self-administered intravenous anesthetic/narcotic agents	Case_description_or_report; Germany; Lethality; anasthesia; anasthesiology suicide; self-prescription; surgeon suicide
+145	"Medical student suicide, 1989-1994"	Medical students; Mental health diagnoses; Work environment; personality traits for suicidality; physician mental health
+146	Suicide amongst anaesthetists-in-training	Lethality; Medical residents; Parasuicide; Suicide_completion; anasthesia; anesthesiology
+147	Are anaesthetists prone to suicide? A review of rates and risk factors	Alcohol or Substance Abuse; Burnout_stress; Lethality; Medical Board Monitoring; Medical residents; Medical students; Mental health diagnoses; Opinion/Editorial; Suicidal ideation; anasthesiology suicide; depression; gender in physician suicide; risk factors for suicide
+148	The prevalence of suicidal ideation and suicidal attempts among Norwegian physicians. Results from a cross-sectional survey of a nationwide sample	Norway; Specialties; Suicidal ideation; depression; gender in physician suicide; risk factors for suicide
+149	Suicide rates according to education with a particular focus on physicians in Norway 1960-2000	Norway; depression; risk factors for suicide
+150	Suicide among physicians	Epidemiology; Opinion/Editorial
+151	A physician's suicide	Mental health diagnoses; Physician attitudes; Suicidal ideation; Work environment; anasthesiology suicide; case report; depression; personality traits for suicidality; physician mental health
+152	"""A physician's suicide"": Reply"	Case_description_or_report; Opinion/Editorial; Physician attitudes; depression
+153	Suicide of physicians in the special wards of Tokyo Metropolitan area	Case_description_or_report; Epidemiology; Lethality; Mental health diagnoses; Specialties; Suicide_completion; japan
+154	New occupational threats to Japanese physicians: karoshi (death due to overwork) and karojisatsu (suicide due to overwork)	Burnout_stress; Opinion/Editorial; Work environment; japan
+155	The stress of residency: recognizing the signs of depression and suicide in you and your fellow residents	Burnout_stress; Intervention_or_Training; depression; high risk physician; surgery resident; survey; wellness curriculum
+156	The death of house officers	Opinion/Editorial
+157	Suicide Among Physicians	Epidemiology; Opinion/Editorial
+158	Medical students and depression	Burnout_stress; Medical students; Opinion/Editorial; Suicidal ideation; depression; risk factors for suicide; wellness
+159	Editorial: Suicide among physicians	Epidemiology; Opinion/Editorial
+160	Suicidal behavior among physicians referred for fitness-for-duty evaluation	Medical Board Monitoring; Mental health diagnoses; Substance misuse; Suicidality; Suicide_completion; disruptive behavior; physician health program; physician impairment; self-prescription; stigma; suicidal behavior
+161	Burnout in medical students: A systematic review	Burnout_stress; Medical students; Mental health diagnoses; Scopus; Suicidal ideation
+162	Suicidal behavior among medical students	Medical students; Opinion/Editorial; Suicidal ideation; Suicidality; stigma
+163	Burnout and alcohol abuse/dependence among U.S. Medical Students	Alcohol or Substance Abuse; Epidemiology; Medical students; Mental health diagnoses; Scopus; Substance misuse; Suicidal ideation; depressive symptoms; survey
+164	Early trauma and lifetime suicidal behavior in a nationwide sample of Korean medical students	Medical students; korea; risk factors for suicide; suicidal behavior
+165	Suicide by medical students - A disturbing trend	Case_description_or_report; Epidemiology; Medical students; Mental health diagnoses; Scopus; india; suicidal behavior; survey
+166	Predisposition to emotional distress and psychiatric illness amongst doctors: the role of unconscious and experiential factors	Mental health diagnoses; personality traits for suicidality; physician mental health; psychology of suicide; review
+167	"Suicide totals for MDs sad reminder of stresses facing medicine, conference told"	Alcohol or Substance Abuse; Etiology of physician suicide; Lethality; Substance misuse; Suicide Method; Suicide_completion; Work environment; corporate model; physician suicide type and region in US; role strain theory
+168	Case history: dangers of self-prescription	Case_description_or_report; Lethality; Medical Board Monitoring; Substance misuse; case report; depression; self-prescription
+169	A study of 100 physician psychiatric inpatients	Alcohol or Substance Abuse; Mental health diagnoses; Physician attitudes; Substance misuse; Suicidal ideation; depression; gender in physician suicide; personality traits for suicidality; psychiatric hospitalization of physicans
+170	Mortality and causes of death among Danish medical doctors 1973-1992	Epidemiology; Medical residents; denmark; gender in physician suicide; physician causes of death
+171	The impact of a medical student's suicide	Case_description_or_report; Medical students; Suicide Aftermath_Medical School
+172	Addressing Depression and Suicide Among Physician Trainees	Burnout_stress; Intervention_or_Training; Medical residents; Medical students; Mental health diagnoses; Opinion/Editorial
+173	Suicide and the stress of residency training: a case report and review of the literature	Burnout_stress; Case_description_or_report; Medical residents; Work environment; depression; gender in physician suicide; narrative review
+174	Suicide among medical students	Medical students; Opinion/Editorial
+175	Chronic suicidality in a physician: an alliance yet to become therapeutic	Case_description_or_report; Mental health diagnoses; Suicidal ideation; case report; depressive symptoms; medical comorbidity
+176	Suicide in medical doctors and nurses: an analysis of the Queensland Suicide Register	Comparison with Professions; Lethality; Mental health diagnoses; Work environment; australia; depression; gender in physician suicide
+177	Stress and the practice of medicine--the myth and reality	Burnout_stress; Etiology of physician suicide; Mental health diagnoses; Physician attitudes; Substance misuse; physician death; review
+178	"Self-care as a professional imperative: physician burnout, depression, and suicide"	Burnout_stress; Etiology of physician suicide; Medical Board Monitoring; Mental health diagnoses; Work environment; anasthesia; burnout prevention; depression; narrative review; stigma
+179	Distress among residents	Family Medicine; Medical residents; Opinion/Editorial; canada
+180	Job conflicts and suicide among physicians	Opinion/Editorial; Work environment; job conflict; psychology of suicide
+181	The GMC and doctors' suicides	NHS; Opinion/Editorial; UK; physician impairment
+182	Physician suicide: unnecessary losses	Female Physicians; Opinion/Editorial; gender in physician suicide; grieving of healthcare team; risk factors for suicide; stigma
+183	A history of physician suicide in America	Physician attitudes; Work environment; narrative review
+184	Family therapy and a physician's suicide	Opinion/Editorial; gender in physician suicide
+185	"Physician, heal thyself"	Case_description_or_report; Opinion/Editorial; PTSD; war and physician suicide
+186	Physician depression and suicide	Epidemiology; discussion guide; gender in physician suicide; recommendations for prevention
+187	Causes of death among anesthesiologists: 1930-1946	anasthesiology suicide; canada; gender in physician suicide; physician causes of death
+188	Treatment of mental disorders in seven physicians committing suicide	Mental health diagnoses; finland; gender in physician suicide; physician mental health; psychological autopsy; treatment
+189	A systematic review on gender-specific suicide mortality in medical doctors	Epidemiology; gender in physician suicide; review
+190	Suicide mortality among medical doctors in Finland: are females more prone to suicide than their male colleagues?	Comparison with Professions; Epidemiology; Female Physicians; Male Physicians; Specialties; Suicide_completion; finland; gender in physician suicide; physician mental health
+191	Medical surveillance often precedes suicide among female physicians in Finland. A case-control study	Female Physicians; Medical Board Monitoring; case report; finland; gender in physician suicide; risk factors for suicide
+192	"Suicides among physicians, engineers and teachers: the prevalence of reported depression, admissions to hospital and contributory causes of death"	Alcohol or Substance Abuse; Comparison with Professions; Lethality; Mental health diagnoses; Suicide_completion; depression; finland; gender in physician suicide; physician causes of death; psychiatric hospitalization of physicans
+193	Suicide among medical doctors: Psychological autopsy data on seven cases	Case_description_or_report; Physician attitudes; finland; gender in physician suicide; medical comorbidity; self-prescription
+194	Suicidality among Finnish anaesthesiologists	Epidemiology; Suicidal ideation; anesthesiology; finland; gender in physician suicide; survey
+195	By the London post. Selection of medical students--Occupational mortality--William Harvey	Opinion/Editorial; risk factors for suicide
+196	"Relationships between anhedonia, suicidal ideation and suicide attempts in a large sample of physicians"	Epidemiology; Interpersonal Psychology Theroy; Mental health diagnoses; Scopus; Specialties; Suicidal ideation; depressive symptoms; suicidal behavior; survey
+197	Time to Act - Alarming Rise in Suicides Among Medical Professionals in Pakistan	Medical students; Opinion/Editorial; Physician Well-being; Suicidality; depression; gender in physician suicide; pakistan
+198	Doctors' suicides: economic considerations and beyond	Medical Board Monitoring; Opinion/Editorial; economics of physician suicide
+199	Medical student impairment: a review of the literature	Medical students; Mental health diagnoses; physician impairment; stigma; substance use disorder; suicide rates
+200	Letter: Suicide by physicians	Opinion/Editorial; gender in physician suicide
+201	M.D. suicides. Why?	Opinion/Editorial; Physician attitudes; Substance misuse; personality traits for suicidality; physician mental health
+202	Suicidal ideation and medical profession: from medical students to hospital physicians	Bosnia-Herzogovinia; Epidemiology; Etiology of physician suicide; Medical students; Suicidal ideation; survey
+203	How healers become killers: Physicians as suicide bombers	Mental health diagnoses; Opinion/Editorial; Scopus; Theory of suicidal behavior; physician mental health; war and physician suicide
+204	Where have we gone wrong?	Etiology of physician suicide; Opinion/Editorial
+205	Association between course of study at university and cause-specific mortality	Comparison with Professions; Medical students; Mental health diagnoses; Scopus; UK; physician causes of death
+206	Suicide Junkie - poems by doctors	Mental health diagnoses; Opinion/Editorial; Suicidal ideation; gender in physician suicide; poetry
+207	"In response to ""Details on suicide among US physicians: data from the National Violent Death Reporting System"""	Intervention_or_Training; Opinion/Editorial; gender in physician suicide
+208	Increased mortality in women doctors	Female Physicians; Opinion/Editorial; gender in physician suicide
+209	Doctors' experience of a bespoke physician consultation service: Cross-sectional investigation	Burnout_stress; Intervention_or_Training; Mental health diagnoses; Scopus; Suicidal ideation; UK; anxiety; depression; personality traits for suicidality
+210	A colleague's suicide	Opinion/Editorial; grieving of healthcare team
+211	Suicidal ideation among students of a medical college in Western Nepal: a cross-sectional study	Burnout_stress; Epidemiology; Harrassment; Medical students; Substance misuse; Suicidal ideation; parental neglect
+212	Gender differences in substance use and psychiatric distress among medical students: A comprehensive statewide evaluation	Medical students; Mental health diagnoses; Scopus; Substance misuse; Suicidal ideation; gender in physician suicide; substance use disorder; treatment
+213	Today I'm grieving a physician suicide	Family Medicine; Mental health diagnoses; Opinion/Editorial; case report; grieving of healthcare team; poetry; stigma
+214	Demographic risk factors for suicide and depression among Serbian medical school students	Medical students; Serbia; Suicidal ideation; depression; depressive symptoms; suicidal behavior
+215	The painful truth: physicians are not invincible	Case_description_or_report; Epidemiology; Female Physicians; depression; gender in physician suicide; narrative review; personality traits for suicidality; physician health program; physician impairment; stigma; substance use disorder; suicide prevention
+216	Dr Pat Manson and the way forward	Case_description_or_report; Opinion/Editorial; case report
+217	Dealing with our losses	Alcohol or Substance Abuse; Opinion/Editorial; burnout prevention; gender in physician suicide; oncologist; physician burnout; risk factors for suicide; wellness
+218	"The suicide prevention and depression awareness program at the University of California, San Diego School of Medicine"	Intervention_or_Training; Medical residents; Medical students; Mental health diagnoses; Suicidal ideation; stigma; treatment
+219	Kathryn	Medical students; Opinion/Editorial; case report; wellness
+220	Suicide by physicians on probation	Epidemiology; Opinion/Editorial; Suicide_completion; medical license; physician impairment
+221	The vulnerability of doctors	Burnout_stress; Female Physicians; Opinion/Editorial; Work environment; physician workload
+222	The health of doctors: a review	Mental health diagnoses; depression; narrative review
+223	Characteristics and prognosis of alcoholic doctors	Alcohol or Substance Abuse; Case_description_or_report; Great Britain; Mental health diagnoses; anxiety; depression; depressive symptoms; risk factors for suicide
+224	Psychiatric illness in doctors	Comparison with Professions; Mental health diagnoses; Opinion/Editorial; UK; high risk physician
+225	The death of house officers	Etiology of physician suicide; Opinion/Editorial; depressive symptoms
+226	"Mortality among male anaesthetists in the United Kingdom, 1957–83"	Epidemiology; Mental health diagnoses; Scopus; UK; anasthesia; physician causes of death
+227	Adams offered us excellent advice	Opinion/Editorial; Physician Well-being; depression
+228	"A pioneering experience in Brazil: the creation of a center for assistance and research for medical residents (NAPREME) at the Escola Paulista de Medicina, Federal University of Sao Paulo"	Burnout_stress; Intervention_or_Training; Medical residents; brazil; depression; depressive symptoms
+229	Psychiatric illness in female physicians. Are high rates of depression an occupational hazard?	Comparison with Professions; Etiology of physician suicide; Female Physicians; Mental health diagnoses; Substance misuse; depression; gender in physician suicide; narrative review
+230	Prevalence of suicidal feelings in a sample of non-consulting medical students	Epidemiology; Medical students; Suicidal ideation; Suicidality; suicidal behavior; survey
+231	"Stress symptoms, burnout and suicidal thoughts in Finnish physicians"	Burnout_stress; Epidemiology; Specialties; Suicidal ideation; finland; gender in physician suicide; physician burnout; survey
+232	Suicidal ideation among medical students of Pakistan: a cross-sectional study	Epidemiology; Medical students; Suicidal ideation; anxiety; depression; pakistan; stigma; survey
+233	"Suicide, medicine and psychoanalysis"	Etiology of physician suicide; Opinion/Editorial; Physician attitudes; Psychiatrists; personality traits for suicidality
+234	"Physician suicide in Taiwan, 2000-2008: preliminary findings"	Epidemiology; Opinion/Editorial; Suicide Method; Taiwan
+235	Occupational health in surgery: risks extend beyond the operating room	Burnout_stress; Opinion/Editorial; Work environment; personality traits for suicidality; recommendations for prevention
+236	Fifty-two medical student suicides	Case_description_or_report; Epidemiology; Medical students; recommendations for prevention
+237	The suicide mortality of working physicians and dentists	Comparison with Professions; Epidemiology; Etiology of physician suicide; gender in physician suicide
+238	Physician suicide	Opinion/Editorial; Physician attitudes; Work environment
+239	Family therapy and a physician's suicide	Epidemiology; Female Physicians; Opinion/Editorial; Specialties; gender in physician suicide
+240	"Burnout, hopelessness and suicide risk in medical doctors"	Etiology of physician suicide; physician burnout; risk factors for suicide; suicide prevention
+241	Letter to the editor on female physicians committing suicide	Female Physicians; gender in physician suicide; physician mental health; Mental health diagnoses; Opinion/Editorial; Scopus
+242	Doctors' mental health	Alcohol or Substance Abuse; Case_description_or_report; Epidemiology; Great Britain; Mental health diagnoses; Specialties; risk factors for suicide
+243	Editorial: Helping ourselves	Etiology of physician suicide; Medical residents; Opinion/Editorial; physician mental health; risk factors for suicide
+244	Ultimate failure	Etiology of physician suicide; Opinion/Editorial; gender in physician suicide; physician mental health; stigma
+245	Physician suicide	Opinion/Editorial; Physician attitudes; gender in physician suicide; personality traits for suicidality; recommendations for prevention
+246	Medical students hanging by a thread	Burnout_stress; Case_description_or_report; Medical students; Opinion/Editorial; Physician attitudes; india; recommendations for prevention; stigma
+247	Prevalence of depression amongst medical students: A meta-analysis	Epidemiology; Medical students; Mental health diagnoses; Scopus; depression; review; stigma
+248	The relationship between personality styles of sociotropy and autonomy and suicidal tendency in medical students	Epidemiology; Medical students; Suicidal ideation; gender in physician suicide; iran; personality traits for suicidality
+249	Physicians at high risk for suicide in US; incidence higher in women doctors Physician Health Programs (PHP) offer confidential treatment	Female Physicians; Medical Board Monitoring; Opinion/Editorial; gender in physician suicide; physician health program; physician mental health; stigma
+250	Physician suicide	Medical Board Monitoring; Opinion/Editorial; physician mental health
+251	Suicide by combined insulin and glipizide overdose in a non-insulin dependent diabetes mellitus physician: a case report	Case_description_or_report; Lethality; Suicide_completion; case report; depression; medical comorbidity; medical illness
+252	Physician heal thyself	Alcohol or Substance Abuse; Case_description_or_report; Lethality; Mental health diagnoses; case report; depression; self-prescription
+253	Physician suicide in North Carolina	high risk physician; risk factors for suicide
+254	Preventing Suicidal Ideation in Medical Interns	Intervention_or_Training; Medical residents; Opinion/Editorial; Suicidal ideation; gender in physician suicide
+255	Commentary: Out of the silence: confronting depression in medical students and residents	Medical residents; Medical students; Opinion/Editorial; depression; gender in physician suicide; physician mental health; suicide prevention
+256	Suicide by male physicians during a five-year period	Epidemiology; Lethality; Male Physicians; Suicide_completion; gender in physician suicide
+257	Suicide in young doctors	Epidemiology; Lethality; Specialties; Suicide_completion; UK; anasthesia; gender in physician suicide; immigrant physicians
+258	"Suicide rate, prevalence of diagnosed depression and prevalence of working physicians in Hungary"	Epidemiology; Mental health diagnoses; Theory of suicidal behavior; depression; gender in physician suicide; hungary; population density of physicians
+259	GMC urges national support service for doctors' health concerns	Medical Board Monitoring; Opinion/Editorial; recommendations for prevention
+260	Mortality of doctors: do doctors benefit from their medical knowledge?	Comparison with Professions; Epidemiology; finland
+261	Death amongst doctors	Comparison with Professions; Opinion/Editorial; Work environment; physician causes of death
+262	The death of a doctor	Case_description_or_report; Medical Board Monitoring; canada; complaints on doctors; gender in physician suicide; medical license; sexual assault
+263	Suicide in physicians	Etiology of physician suicide; Mental health diagnoses; Opinion/Editorial; Work environment; graduate medical education; medical education; physician workload; stigma
+264	Physicians' knowledge and attitudes about suicide	
+265	Chronic Stress and Suicidal Thinking Among Medical Students	Alcohol or Substance Abuse; Burnout_stress; Epidemiology; Medical students; Mental health diagnoses; Suicidal ideation; survey
+266	Physician suicide risk: practical recognition and management	Epidemiology; high risk physician; personality traits for suicidality; review; risk factors for suicide; stigma
+267	Suicide among physicians. A psychological study	Alcohol or Substance Abuse; Medical residents; Medical students; crime; depression; gender in physician suicide; hungary; narrative review; role strain theory; substance use disorder
+268	Suicide among physicians	Medical residents; Medical students; Mental health diagnoses; Opinion/Editorial; Specialties; Substance misuse; Suicide Method; gender in physician suicide; narrative review; recommendations for prevention; role strain theory
+269	Changes in the lifetime prevalence of suicidal feelings and thoughts among Norwegian doctors from 2000 to 2010: a longitudinal study based on national samples.[Erratum appears in BMC Psychiatry. 2014;14:1]	Burnout_stress; Epidemiology; Germany; Norway; Suicidal ideation; Work environment; depression; risk factors for suicide
+270	Correction: Changes in the lifetime prevalence of suicidal feelings and thoughts among Norwegian doctors from 2000 to 2010: A longitudinal study based on national samples	crime; hungary
+271	"Prevalence of Depression, Depressive Symptoms, and Suicidal Ideation Among Medical Students: A Systematic Review and Meta-Analysis"	Epidemiology; Medical students; Mental health diagnoses; Suicidal ideation; crime; depression; depressive symptoms; hungary; physician mental health
+272	Depression among women in medicine	Female Physicians; Mental health diagnoses; crime; depression; divorce rate; gender in physician suicide; hungary
+273	Recent suicides highlight need to address depression in medical students and residents	Medical residents; Medical students; Opinion/Editorial; crime; hungary; recommendations for prevention
+274	Emotional problems of residents in psychiatry	Epidemiology; Medical residents; Psychiatrists; crime; disciplinary action on physicians with mental health disorders; hungary; physician mental health
+275	Suicide in doctors and their wives	Lethality; Opinion/Editorial; Spouse; self-prescription
+276	Suicide in doctors and wives of doctors	Burnout_stress; Comparison with Professions; Etiology of physician suicide; Female Physicians; Lethality; Medical residents; Medical students; Mental health diagnoses; Specialties; Spouse; Substance misuse; medical education; narrative review; self-prescription
+277	"Mortality of young physicians in the United States, 1980-1988"	Epidemiology; Medical residents; physician causes of death
+278	Physician suicide: a fleeting moment of despair	Female Physicians; Mental health diagnoses; Opinion/Editorial; Physician attitudes; job conflict; personality traits for suicidality
+279	"Preventing physician suicide. The role of family, colleagues, and organized medicine"	Opinion/Editorial; Physician attitudes; Spouse; Work environment; crime; high risk physician; hungary; personality traits for suicidality; physician impairment; physician mental health; stigma
+280	Taking their own lives -- the high rate of physician suicide	Female Physicians; Lethality; Mental health diagnoses; Opinion/Editorial; Work environment; depression; depressive symptoms; gender in physician suicide; sexual assault; sexual harassment
+281	Suicide rates among physicians: a quantitative and gender assessment (meta-analysis)	Epidemiology; Female Physicians; gender in physician suicide; review
+282	"""Physician Suicide and Drug Abuse"": Reply"	Alcohol or Substance Abuse; Medical Board Monitoring; Mental health diagnoses; Work environment; anasthesia; crime; hungary
+283	Suicide and related deaths in Victorian doctors	Epidemiology; Female Physicians; australia; crime; gender in physician suicide; physician causes of death
+284	The emotionally disturbed child psychiatry trainee	Epidemiology; Mental health diagnoses; Psychiatrists; depression; graduate medical education; high risk physician; survey
+285	"Depression, stigma, and suicidal ideation in medical students"	Medical students; Suicidal ideation; depression; stigma
+286	Suicide in doctors	Female Physicians; Opinion/Editorial; Suicide_completion; UK; gender in physician suicide
+287	Physician suicide	Medical Board Monitoring; Mental health diagnoses; Opinion/Editorial; Substance misuse; physician mental health; recommendations for prevention
+288	Special report: suicidal ideation among American surgeons	Burnout_stress; Specialties; Suicidal ideation; depression; depressive symptoms; gender in physician suicide; quality of life; stigma; surgeon; survey
+289	Mental health and suicide	Epidemiology; Opinion/Editorial; Psychiatrists
+290	Prevention of physicians' suicide	Opinion/Editorial; recommendations for prevention; risk factors for suicide
+291	Towards a model of suicidal behavior among physicians	Acquired Capability; Burnout_stress; Mental health diagnoses; Opinion/Editorial; physician mental health
+292	Suicidal behavior in military veterans and health care professionals	Acquired Capability; Interpersonal Psychology Theroy; Lethality; Opinion/Editorial; stigma
+293	Psychiatric illness in physicians	Mental health diagnoses; Spouse; Substance misuse; narrative review; physician mental health; psychiatric hospitalization of physicans; recommendations for prevention; role strain theory; susceptible personality theory
+294	"Mortality among medical students, 1947-1967"	Epidemiology; Medical students; physician causes of death
+295	Suicide among physician-patients	Mental health diagnoses; Suicidal ideation; Suicidality; Suicide_completion; high risk physician; personality traits for suicidality; psychiatric hospitalization of physicans
+296	NHS criticised over suicide of mentally ill doctor	Case_description_or_report; Medical residents; Mental health diagnoses; Opinion/Editorial; physician mental health; stigma
+297	Suicide by occupation: does access to means increase the risk?	Comparison with Professions; Epidemiology; Lethality; Suicide_completion
+298	Depression and suicidal ideation in medical students in China: a call for wellness curricula	China; Epidemiology; Medical students; Suicidal ideation; depression; survey; wellness; wellness curriculum
+299	Suicide and burnout of physicians	Lethality; Mental health diagnoses; Work environment; gender in physician suicide; narrative review; physician burnout
+300	Physician suicide	Case_description_or_report; Opinion/Editorial; Work environment; case report; economics of physician suicide; physician burnout; physician income; surgeon suicide
+301	Suicide among Doctors	Lethality; Opinion/Editorial; Substance misuse; Work environment; physician burnout
+302	"Risk factors at medical school for later severe depression: A 15-year longitudinal, nationwide study (NORDOC)"	Scopus; Suicidal ideation; depressive symptoms; personality traits for suicidality
+303	Suicide risk among physicians: a multivariate analysis	Burnout_stress; Epidemiology; Suicide_completion; physician burnout; risk factors for suicide
+304	Could explicit teaching of coping planning in suicide prevention curricula improve resilience in medical students?	Opinion/Editorial; Scopus; australia; physician burnout; suicide curriculum
+305	Health care occupations and suicide in Sweden 1961-1985	Comparison with Professions; Epidemiology; physician burnout; sweden
+306	"Suicidal ideation, plans and attempts among medical college students in China: The effect of their parental characteristics"	China; Epidemiology; Male Physicians; Suicidal ideation; parental neglect; suicidal behavior; survey
+307	Are anaesthetists prone to suicide? A review of rates and risk factors	Alcohol or Substance Abuse; Burnout_stress; Lethality; Medical Board Monitoring; Medical residents; Medical students; Mental health diagnoses; Norway; Suicidal ideation; anasthesia; anesthesiology; depression; gender in physician suicide; review; risk factors for suicide
+308	A piece of my mind. Fare well	Opinion/Editorial; Work environment; depression; physician mental health
+309	"Examining Burnout, Depression, and Attitudes Regarding Drug Use Among Lebanese Medical Students During the 4 Years of Medical School"	Alcohol or Substance Abuse; Burnout_stress; Medical students; Scopus; Substance misuse; Suicidal ideation; depressive symptoms; physician impairment; substance use disorder
+310	Correlates of Depression and Burnout Among Residents in a Lebanese Academic Medical Center: a Cross-Sectional Study	Alcohol or Substance Abuse; Lebanese; Medical residents; Mental health diagnoses; Suicidal ideation; anxiety; suicide rates
+311	Prevalence and predictors of suicidality among medical students in a public university	Epidemiology; Medical students; Suicidal ideation; risk factors for suicide; survey
+312	Suicidal ideation and burnout among psychiatric trainees in Japan	Burnout_stress; Medical residents; Psychiatrists; Suicidal ideation; japan
+313	"Are words of the Rorschach predictors of disease and death? The case of ""whirling"""	Medical students; predictors; psychology of suicide
+314	"Psychobiological characteristics in youth as predictors of five disease states: Suicide, mental illness, hypertension, coronary heart disease and tumor"	Male Physicians; Medical students; Scopus; high risk physician; medical illness; physician mental health
+315	Re-Visioning Medicine	Burnout_stress; Opinion/Editorial; Scopus; Suicidal ideation; Work environment; personality traits for suicidality; physician mental health; stigma
+316	A program for reducing depressive symptoms and suicidal ideation in medical students	Intervention_or_Training; Medical students; Suicidal ideation; depressive symptoms
+317	Factors associated with undertreatment of medical student depression	Medical students; Mental health diagnoses; Scopus; Suicidal ideation; depression; treatment
+318	Suicide compared to other causes of mortality in physicians	Epidemiology; Lethality; Male Physicians; Mental health diagnoses; physician causes of death
+319	The process of suicidal planning among medical doctors: predictors in a longitudinal Norwegian sample	Medical students; Norway; Suicidal ideation; Suicidality; depressive symptoms; personality traits for suicidality; suicidal behavior
+320	Suicidal ideation among medical students and young physicians: a nationwide and prospective study of prevalence and predictors	Burnout_stress; Epidemiology; Medical residents; Medical students; Norway; Spouse; Suicidal ideation; Suicidality; personality traits for suicidality; predictors; survey
+321	Cause-specific mortality among physicians with differing life-styles	Epidemiology; Male Physicians; bias; physician causes of death; physician mental health; physician mortality
+322	Suicide by physicians on probation	Epidemiology; Medical Board Monitoring; Mental health diagnoses; Opinion/Editorial; medical license; physician impairment
+323	Suicidal thoughts among medical residents with burnout	Burnout_stress; Medical residents; Suicidal ideation; graduate medical education
+324	Suicidal ideation and attempt among South African medical students	Burnout_stress; Epidemiology; Medical students; Scopus; Suicidal ideation; depressive symptoms; south africa; survey
+325	Subjective experience of depressed mood among medical students at the University of Pretoria	Medical students; Scopus; stigma; suicidal behavior; survey
+326	Suicide in doctors	Female Physicians; Opinion/Editorial; UK
+327	My dear colleague: are you considering suicide?	Opinion/Editorial; Physician attitudes; graduate medical education
+328	Physician suicide still shrouded in secrecy	Mental health diagnoses; Opinion/Editorial; Physician attitudes; canada; graduate medical education; physician mental health; self-prescription; stigma
+329	The physicians's suicide revisited	Epidemiology; Lethality; Opinion/Editorial; graduate medical education; narrative review
+330	Association of depression and suicidal ideation with unreasonable patient demands and complaints among Japanese physicians: a national cross-sectional survey	Suicidal ideation; complaints on doctors; depressive symptoms; graduate medical education; japan
+331	Attitudes towards suicide and suicidal patients among medical students	Medical students; Physician attitudes; Suicidal ideation; depressive symptoms; graduate medical education; suicidal behavior
+332	Alarm bells ring: suicide among Chinese physicians: A STROBE compliant study	Burnout_stress; Case_description_or_report; China; Work environment; graduate medical education
+333	Medicine: in need of culture change	Burnout_stress; Medical residents; Mental health diagnoses; Opinion/Editorial; Suicidal ideation; Work environment; graduate medical education; recommendations for prevention
+334	Psychiatric illness in physicians: a review	Mental health diagnoses; Opinion/Editorial; graduate medical education; self-prescription; stigma; substance use disorder
+335	Psychiatric illness in the medical profession: incidence in relation to sex and field of practice	Mental health diagnoses; Opthalmologists; Psychiatrists; Specialties; canada; graduate medical education; role strain theory; survey
+336	Physicians view death and suicide	Physician attitudes; graduate medical education
+337	Concurrent validity of single-item measures of emotional exhaustion and depersonalization in burnout assessment	Burnout_stress; Medical students; Suicidal ideation; physician burnout; survey
+338	Efficacy of burnout interventions in the medical education pipeline	Burnout_stress; Intervention_or_Training; Medical residents; Mental health diagnoses; Suicidal ideation; graduate medical education; physician burnout; review
+339	Manitoba suicides force consideration of stresses facing medical residents	Burnout_stress; Case_description_or_report; Lethality; Medical residents; Work environment; canada; case report; graduate medical education; location of suicide; stigma
+340	Hawai'i Physician Workforce Assessment 2016: Improvement in Physician Numbers but Physician Suicides of Concern	Burnout_stress; Epidemiology; Suicide_completion; Work environment; physician burnout; survey
+341	Our fallen peers: a mandate for change	Medical Board Monitoring; disciplinary action on physicians with mental health disorders; graduate medical education; physician mental health; stigma
+342	Causes of Death of Residents in ACGME-Accredited Programs 2000 Through 2014: Implications for the Learning Environment	Alcohol or Substance Abuse; Mental health diagnoses; graduate medical education
+343	Stress and medical marriages	Opinion/Editorial; Scopus; Spouse; graduate medical education
+344	Committing suicide by physicians: A summary from Thai situation	Scopus; case report; graduate medical education; thailand
+345	Is there a connection between high educational debt and suicidal ideation among medical students?	Burnout_stress; Medical students; Opinion/Editorial; Suicidal ideation; physician burnout; wellness
+346	Consultation to a clinic following suicide	Case_description_or_report; Work environment; case report; grieving of healthcare team
+347	Social and psychological factors of the suicidal tendencies of Chinese medical students	China; Medical students; Suicidal ideation; personality traits for suicidality; survey
+348	"Suicidal ideation among students and physicians at a U.S. Medical School: A healer education, assessment and referral (HEAR) program report"	Burnout_stress; Intervention_or_Training; Medical residents; Medical students; Suicidal ideation; Suicidality; depression; high risk physician
